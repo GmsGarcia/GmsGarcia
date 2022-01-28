@@ -1,5 +1,4 @@
 ## ABOUT ME
-**
 Heyo! I'm GmsGarcia & I'm From Portugal! :)  
 
 [🟩🟨🟥] ➜ Portuguese
@@ -10,7 +9,6 @@ Heyo! I'm GmsGarcia & I'm From Portugal! :)
 ➜ Games? Servers Config.  
   
 ? ➜ Minecraft, CS:GO, FiveM
-**
 
 ## SOCIALS
 ➜ [CurseForge](http://gmsgarca.ga)  
@@ -20,4 +18,3 @@ Heyo! I'm GmsGarcia & I'm From Portugal! :)
 
 ![](https://komarev.com/ghpvc/?username=GmsGarcia&style=flat-square&color=blue)
 
-**
