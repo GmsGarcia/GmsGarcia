@@ -1,5 +1,6 @@
 ## ABOUT ME
-**Heyo! I'm GmsGarcia & I'm From Portugal! :)  
+**
+Heyo! I'm GmsGarcia & I'm From Portugal! :)  
 
 [🟩🟨🟥] ➜ Portuguese
 
@@ -12,9 +13,11 @@
 **
 
 ## SOCIALS
-**➜ [CurseForge](http://gmsgarca.ga)  
+➜ [CurseForge](http://gmsgarca.ga)  
 ➜ [Discord Server](https://discord.gg/VSgTpTGZ8A)  
 ➜ [CurseForge](https://authors.curseforge.com/members/gmsg4rci4)  
-**
+
 
 ![](https://komarev.com/ghpvc/?username=GmsGarcia&style=flat-square&color=blue)
+
+**
