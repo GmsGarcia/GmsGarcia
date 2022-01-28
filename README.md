@@ -11,7 +11,7 @@ Heyo! I'm GmsGarcia & I'm From Portugal! :)
 ? ➜ Minecraft, CS:GO, FiveM
 
 ## SOCIALS
-➜ [CurseForge](http://gmsgarca.ga)  
+➜ [WebSite](http://gmsgarcia.ga)  
 ➜ [Discord Server](https://discord.gg/VSgTpTGZ8A)  
 ➜ [CurseForge](https://authors.curseforge.com/members/gmsg4rci4)  
 
