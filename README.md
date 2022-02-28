@@ -6,13 +6,13 @@ Heyo! I'm GmsGarcia & I'm From Portugal! :)
 ➜ FrontEnd & BackEnd Developer 🌉
 ➜ Minecraft Modder [Fabric] 🌄
 
-✅ C# 
-✅ HTML
-✅ CSS
-✅ JS
-✅ PHP
-📖 JAVA
-📖 PYTHON
+✅ C#   
+✅ HTML    
+✅ CSS  
+✅ JS  
+✅ PHP  
+📖 JAVA  
+📖 PYTHON  
 
 ## SOCIALS
 ➜ [WebSite](http://gmsgarcia.ga)  
