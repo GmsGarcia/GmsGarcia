@@ -3,7 +3,7 @@ Heyo! I'm GmsGarcia & I'm From Portugal! :)
 
 [🟩🟨🟥] ➜ Portuguese
 
-➜ FrontEnd & BackEnd Developer 🌉
+➜ FrontEnd & BackEnd Developer 🌉  
 ➜ Minecraft Modder [Fabric] 🌄
 
 ✅ C#   
