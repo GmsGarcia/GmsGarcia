@@ -3,12 +3,16 @@ Heyo! I'm GmsGarcia & I'm From Portugal! :)
 
 [🟩🟨🟥] ➜ Portuguese
 
-➜ Web Developer  
-➜ Discord Bot Developer  
-➜ Minecraft Modder [Fabric]  
-➜ Games? Servers Config.  
-  
-? ➜ Minecraft, CS:GO, FiveM
+➜ FrontEnd & BackEnd Developer 🌉
+➜ Minecraft Modder [Fabric] 🌄
+
+✅ C# 
+✅ HTML
+✅ CSS
+✅ JS
+✅ PHP
+📖 JAVA
+📖 PYTHON
 
 ## SOCIALS
 ➜ [WebSite](http://gmsgarcia.ga)  
