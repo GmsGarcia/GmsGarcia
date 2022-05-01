@@ -15,7 +15,7 @@ Heyo! I'm GmsGarcia & I'm From Portugal! :)
 📖 PYTHON  
 
 ## SOCIALS
-➜ [WebSite](https://gmsgarcia.ga)
+➜ [WebSite](https://gmsgarcia.ga)  
 ➜ [Discord Server](https://discord.gg/VSgTpTGZ8A)  
 ➜ [CurseForge](https://authors.curseforge.com/members/gmsg4rci4)  
 
