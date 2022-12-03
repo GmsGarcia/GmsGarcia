@@ -2,8 +2,9 @@
 ### Heyo! I'm GmsGarcia & I'm From Portugal! :)  
 
 [🟩🟨🟥] ➜ Portuguese
-#### ➜ FrontEnd & BackEnd Developer 🌉  
-#### ➜ Minecraft Modder [Fabric] 🌄
+#### ➜ Website Developer 🌉  
+#### ➜ Android App Developer 📱  
+#### ➜ Minecraft Modder 🌄
 
 ## ✅ LANGUAGES I USUALLY USE:  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
