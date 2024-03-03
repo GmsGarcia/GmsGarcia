@@ -8,11 +8,11 @@
   <img src="https://raw.githubusercontent.com/GmsGarcia/github-stats-transparent/output/generated/overview.svg" alt="github-stats" align="right" />
 </a>
 
-#### ➜ Full-Stack developer 📚
-#### ➜ I'm currently learning low-level programming [Rust] 🦀
-#### ➜ Cryptography enthusiast 🔐
-#### ➜ Linux & Nvim user 💻
-#### ➜ Check out my website [here](https://gmsgarcia.pt)  [WIP] 🌆
+<h4 align="left">⤷ Full-Stack developer 📚</h4>
+<h4 align="left">⤷ I'm currently learning low-level programming [Rust] 🦀</h4>
+<h4 align="left">⤷ Cryptography enthusiast 🔐</h4>
+<h4 align="left">⤷ Linux & Nvim user 💻</h4>
+<h4 align="left">⤷ Check out my website <a href="https://gmsgarcia.pt">here</a> [WIP] 🌆</h4>
 <br>
 
 # 🛠️ Languages & Tools:
@@ -36,6 +36,12 @@
         <img src="https://rust-lang.org/logos/rust-logo-512x512.png" width="48" height="48" alt="Rust" />
       </a>
       <br>Rust
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" width="24" height="48" alt="Java" />
+      </a>
+      <br>Java
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
@@ -63,6 +69,12 @@
         <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" width="48" height="48" alt="Node.js" />
       </a>
       <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" width="48" height="48" alt="Angular" />
+      </a>
+      <br>Angular
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -96,7 +108,17 @@
     </td>
   </tr>
 </table>
+
+<br><br><br><br>
+<br><br><br><br><br>
+
+# 📂 Projects:
 <p>
-  <img src="https://raw.githubusercontent.com/GmsGarcia/github-stats-transparent/output/generated/languages.svg" alt="github-stats-2" align="right" />
+  <img src="https://raw.githubusercontent.com/GmsGarcia/github-stats-transparent/output/generated/languages.svg" alt="github-stats-2" align="left" />
 </p>
 
+<h4 align="right">🎰 PocketKings Casino [WIP] ⤶</h4>
+<h4 align="right">🏨 Grand Tranquil Hotel [WIP] ⤶</h4>
+<h4 align="right">📝 Todo App with Rust & Yew [WIP] ⤶</h4>
+<h4 align="right">📦 Compress 'em [Archived] ⤶</h4>
+<h4 align="right">🌄 Decor4Forge & Decor4Fabric [Archived] ⤶</h4>
