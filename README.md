@@ -16,9 +16,6 @@
 <br>
 
 # 🛠️ Languages & Tools:
-<p>
-  <img src="https://raw.githubusercontent.com/GmsGarcia/github-stats-transparent/output/generated/languages.svg" alt="github-stats-2" align="right" />
-</p>
 
 <table align="left">
   <tr>
@@ -99,4 +96,7 @@
     </td>
   </tr>
 </table>
+<p>
+  <img src="https://raw.githubusercontent.com/GmsGarcia/github-stats-transparent/output/generated/languages.svg" alt="github-stats-2" align="right" />
+</p>
 
