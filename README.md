@@ -27,9 +27,27 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/WebAssembly_Logo.svg/1200px-WebAssembly_Logo.svg.png" width="48" height="48" alt="WASM" />
+      </a>
+      <br>WASM
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://titrias.com/files/2022/04/typescript.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -43,33 +61,15 @@
       </a>
       <br>Java
     </td>
-    <td align="center" width="96">
+    <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
+        <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" width="48" height="52" alt="Node.js" />
       </a>
-      <br>Python
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="48" height="48" alt="Linux" />
-      </a>
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/1200px-Neovim-mark.svg.png" width="48" height="52" alt="NeoVim" />
-      </a>
-      <br>NeoVim
+      <br>Node.js
     </td>
   </tr>
   <tr></tr>
   <tr>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" width="48" height="48" alt="Node.js" />
-      </a>
-      <br>Node.js
-    </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" width="48" height="48" alt="Angular" />
@@ -105,6 +105,18 @@
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLA972a1NXwGHTIpgjxpRdu1DD5te1evggDgjNvM_FcbtGxaPYrHbV27RNzJSA_ZhrY28&usqp=CAU" width="48" height="48" alt="Express.js" />
       </a>
       <br>Express.js
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="48" height="48" alt="Linux" />
+      </a>
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/1200px-Neovim-mark.svg.png" width="48" height="52" alt="NeoVim" />
+      </a>
+      <br>NeoVim
     </td>
   </tr>
 </table>
