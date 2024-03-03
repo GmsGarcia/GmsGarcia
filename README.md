@@ -13,15 +13,14 @@
 #### ➜ Cryptography enthusiast 🔐
 #### ➜ Linux & Nvim user 💻
 #### ➜ Check out my website [here](https://gmsgarcia.pt)  [WIP] 🌆
-
 <br>
 
 # 🛠️ Languages & Tools:
-<a>
-  <img src="https://raw.githubusercontent.com/GmsGarcia/github-stats-transparent/output/generated/languages.svg" alt="github-stats-2" align="left" />
-</a>
+<p>
+  <img src="https://raw.githubusercontent.com/GmsGarcia/github-stats-transparent/output/generated/languages.svg" alt="github-stats-2" align="right" />
+</p>
 
-<table align="right">
+<table align="left">
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -100,3 +99,4 @@
     </td>
   </tr>
 </table>
+
