@@ -11,7 +11,7 @@
 <h4 align="left">⤷ Full-Stack developer 📚</h4>
 <h4 align="left">⤷ I'm currently learning low-level programming [Rust] 🦀</h4>
 <h4 align="left">⤷ Cryptography enthusiast 🔐</h4>
-<h4 align="left">⤷ Linux & Nvim user 💻</h4>
+<h4 align="left">⤷ Nvim user :P 💻</h4>
 <h4 align="left">⤷ Check out my website <a href="https://gmsgarcia.pt">here</a> [WIP] 🌆</h4>
 <br>
 
