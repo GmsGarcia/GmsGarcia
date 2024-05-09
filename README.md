@@ -1,9 +1,4 @@
 <h1 style="border-bottom: 0;">👋 Hello there! I'm Guilherme Garcia.</h1> 
-
-![](https://komarev.com/ghpvc/?username=GmsGarcia&style=for-the-badge)
-[![](https://shields.io/badge/CurseForge-Profile-F16436?logo=curseforge&style=for-the-badge&logoColor=F16436)](https://www.curseforge.com/members/gmsg4rci4/projects)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-garcia-54652420b/)
-
 <a>
   <img src="https://raw.githubusercontent.com/GmsGarcia/github-stats-transparent/output/generated/overview.svg" alt="github-stats" align="right" />
 </a>
