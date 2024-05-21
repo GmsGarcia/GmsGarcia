@@ -40,9 +40,9 @@
     </td>
     <td align="center" width="96">
       <a href="#l_t">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
+        <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" width="56" height="56" alt="Go" />
       </a>
-      <br>Python
+      <br>Go
     </td>
     <td align="center" width="96">
       <a href="#l_t">
