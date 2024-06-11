@@ -1,4 +1,4 @@
-<h1 style="border-bottom: 0;">👋 Hello there! I'm Guilherme Garcia.</h1> 
+<h1 style="border-bottom: 0;">👋 Hello there! I'm Guilherme Garcia</h1> 
 <a>
   <img src="https://raw.githubusercontent.com/GmsGarcia/github-stats-transparent/output/generated/overview.svg" alt="github-stats" align="right" />
 </a>
