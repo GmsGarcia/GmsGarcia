@@ -7,7 +7,7 @@
 <h4 align="left">⤷ I'm currently learning Rust 🦀</h4>
 <h4 align="left">⤷ Networking enthusiast 🌐</h4>
 <h4 align="left">⤷ I use Neovim btw :P 💻</h4>
-<h4 align="left">⤷ Check out my website <a href="https://gmsgarcia.pt">here</a>] 🌆</h4>
+<h4 align="left">⤷ Check out my website <a href="https://gmsgarcia.pt">here</a> 🌆</h4>
 <br>
 
 # 🛠️ Languages & Tools:
