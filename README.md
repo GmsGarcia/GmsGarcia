@@ -58,7 +58,7 @@
     </td>
     <td align="center" width="96"> 
       <a href="#l_t">
-        <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" width="48" height="52" alt="Node.js" />
+        <img src="https://logos-download.com/wp-content/uploads/2016/09/Node_logo_NodeJS.png" width="48" height="36" alt="Node.js" />
       </a>
       <br>Node.js
     </td>
