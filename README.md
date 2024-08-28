@@ -1,10 +1,10 @@
-<h1 style="border-bottom: 0;">👋 Hello there! I'm Guilherme Garcia</h1> 
+j<h1 style="border-bottom: 0;">👋 Hello there! I'm Guilherme Garcia</h1> 
 <a>
   <img src="https://raw.githubusercontent.com/GmsGarcia/github-stats-transparent/output/generated/overview.svg" alt="github-stats" align="right" />
 </a>
 
 <h4 align="left">⤷ Full-Stack developer 📚</h4>
-<h4 align="left">⤷ I'm currently learning Rust 🦀</h4>
+<h4 align="left">⤷ I'm currently learning low-level programming 📟</h4>
 <h4 align="left">⤷ Networking enthusiast 🌐</h4>
 <h4 align="left">⤷ I use Neovim btw :P 💻</h4>
 <h4 align="left">⤷ Check out my website <a href="https://gmsgarcia.pt">here</a> 🌆</h4>
