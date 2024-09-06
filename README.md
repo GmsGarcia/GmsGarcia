@@ -124,8 +124,7 @@
   <img src="https://raw.githubusercontent.com/GmsGarcia/github-stats-transparent/output/generated/languages.svg" alt="github-stats-2" align="left" />
 </p>
 
-<h4 align="right">🎰 PocketKings Casino [WIP] ⤶</h4>
-<h4 align="right">🏨 Grand Tranquil Hotel [WIP] ⤶</h4>
-<h4 align="right">📝 Todo App with Rust & Yew [WIP] ⤶</h4>
-<h4 align="right">📦 Compress 'em [Archived] ⤶</h4>
-<h4 align="right">🌄 Decor4Forge & Decor4Fabric [Archived] ⤶</h4>
+<h4 align="right"><a href="https://gmsgarcia.pt/projects/pocket-kings.html">🎰 PocketKings Casino</a> ⤶</h4>
+<h4 align="right"><a href="https://gmsgarcia.pt/projects/macaw.html">🏨 Macaw [WIP]</a> ⤶</h4>
+<h4 align="right"><a href="https://github.com/GmsGarcia/compress-em">📦 Compress 'em [Archived] ⤶</h4>
+<h4 align="right"><a href="https://github.com/GmsGarcia/decor4fabric">🌄 Decor4Forge & Decor4Fabric [Archived] ⤶</h4>
