@@ -4,7 +4,7 @@
 </a>
 
 <h4 align="left">⤷ Full-Stack developer 📚</h4>
-<h4 align="left">⤷ I'm currently learning low-level programming 📟</h4>
+<h4 align="left">⤷ I'm currently learning low-level concepts📟</h4>
 <h4 align="left">⤷ Networking enthusiast 🌐</h4>
 <h4 align="left">⤷ I use Neovim btw :P 💻</h4>
 <h4 align="left">⤷ Check out my website <a href="https://gmsgarcia.pt">here</a> 🌆</h4>
