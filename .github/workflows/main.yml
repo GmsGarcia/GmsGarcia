@@ -1,0 +1,7 @@
+name: README.md
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs every 2 hours
+    - cron: "0 */2 * * *"
