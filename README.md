@@ -18,7 +18,6 @@
 </p>
 
 <h4 align="right"><a href="https://gmsgarcia.pt/projects/pocket-kings.html">🎰 PocketKings Casino</a> ⤶</h4>
-<h4 align="right"><a href="https://gmsgarcia.pt/projects/macaw.html">🏨 Macaw [WIP]</a> ⤶</h4>
-<h4 align="right"><a href="https://github.com/GmsGarcia/garry">🐌 Garry</a> ⤶</h4>
+<h4 align="right"><a href="https://gmsgarcia.pt/projects/macaw.html">🏨 Macaw</a> ⤶</h4>
 <h4 align="right"><a href="https://github.com/GmsGarcia/compress-em">📦 Compress 'em [Archived]</a> ⤶</h4>
 <h4 align="right"><a href="https://github.com/GmsGarcia/decor4fabric">🌄 Decor4Forge & Decor4Fabric [Archived]</a> ⤶</h4>
