@@ -10,7 +10,8 @@
 <h4 align="left">⤷ Check out my website <a href="https://gmsgarcia.pt">here</a> 🌆</h4>
 <br>
 
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
+<!--START_SECTION:SHOW_LANGUAGE-->
+<!--END_SECTION:SHOW_LANGUAGE-->
 
 # 📂 Projects:
 <p>
