@@ -19,7 +19,7 @@
 </p>
 
 <h4 align="right"> </h4>
-<h4 align="right"><a href="https://gmsgarcia.pt/projects/macaw/">🏨 Macaw</a> ⤶</h4>
+<h4 align="right"><a href="https://gmsgarcia.me/projects/macaw/">🏨 Macaw</a> ⤶</h4>
 <h4 align="right"><a href="https://gmsgarcia.me/projects/pocket-kings/">🎰 PocketKings</a> ⤶</h4>
 <h4 align="right"><a href="https://github.com/GmsGarcia/compress-em">📦 Compress 'em [Archived]</a> ⤶</h4>
 <h4 align="right"><a href="https://github.com/GmsGarcia/decor4fabric">🌄 Decor4Forge & Decor4Fabric [Archived]</a> ⤶</h4>
